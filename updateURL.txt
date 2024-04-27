@@ -1,2 +1,14 @@
 https://dl.dropboxusercontent.com/scl/fi/x5sp6iu17gzqu59kjuk5y/Apex.exe?rlkey=hhpa0vby8ykjexnikls2ku4vl&st=3yg0sjgm&dl=0
 https://dl.dropboxusercontent.com/scl/fi/cmptm10nqiildt2c9qqvo/bold.otf?rlkey=r42w4p79xl3km8hoz00zf9v11&st=rb5br0mx&dl=0
+https://dl.dropboxusercontent.com/scl/fi/5ng04n4xv3r8veqjxycx0/FTD3XX.dll?rlkey=6r03g966hdhtow3y4tcs7rqdc&st=rnw5atp0&dl=0
+https://dl.dropboxusercontent.com/scl/fi/xa6t90iwv2txhtmyn9awa/imgui.ini?rlkey=0p90rona5uslv9px7rh4nfae4&st=zd5lozg3&dl=0
+https://dl.dropboxusercontent.com/scl/fi/5clv3juf9hn5l94me553u/italic.otf?rlkey=k5gvsrpufrkqc4tgw9ixu5i1p&st=upk8ail2&dl=0
+https://dl.dropboxusercontent.com/scl/fi/42i4pa1cgzc0ige0xdhwu/leechcore.dll?rlkey=5x99no99tacs41ljfcit1q1rm&st=e13udp08&dl=0
+https://dl.dropboxusercontent.com/scl/fi/fxjcyw7k64lvejvu98it4/NX.png?rlkey=3nczix5io7n1u33ac5jdx5ne6&st=di4v07zk&dl=0
+https://dl.dropboxusercontent.com/scl/fi/4guahhu6of8hy7adwmri3/regular.otf?rlkey=confmkzmda4nb5o0bfwzz6glj&st=xwtfg1y0&dl=0
+https://dl.dropboxusercontent.com/scl/fi/xmw82je2yttsdfp4yehan/Roboto-Bold.ttf?rlkey=zej9u0t2u5owr6mmq27pbzave&st=6j28cgtr&dl=0
+https://dl.dropboxusercontent.com/scl/fi/7qa8n02jdkfakk4m7195g/Roboto-Regular.ttf?rlkey=g3t7bps5l0n7ghelyucog2pvv&st=09ihyghz&dl=0
+https://dl.dropboxusercontent.com/scl/fi/wc5vnznpcbs0llobr2nnn/sfml-graphics-2.dll?rlkey=txcjkj5buq39znwsmevv4lpf3&st=g4o0bh0e&dl=0
+https://dl.dropboxusercontent.com/scl/fi/8j03hpwx64ihynoacioui/sfml-system-2.dll?rlkey=unvpevbdust8xivluxik1jl56&st=2143jepu&dl=0
+https://dl.dropboxusercontent.com/scl/fi/ncjtmshg9z6exxybo9lic/sfml-window-2.dll?rlkey=uqq1cob9uoj5p0itqppx44nr1&st=j9wpx2ld&dl=0
+https://dl.dropboxusercontent.com/scl/fi/zo19te2layiwa9khyro3z/vmm.dll?rlkey=k43zw9m60stgnsvz3znvtjns8&st=n54e5gin&dl=0
