@@ -13,4 +13,4 @@ https://dl.dropboxusercontent.com/scl/fi/jpyhkpwe7bhjz8aaz6ejv/sfml-graphics-2.d
 https://dl.dropboxusercontent.com/scl/fi/9ii7rd4k2i3vgbma6bzdf/sfml-system-2.dll?rlkey=l5hokqz4u145zk2qx3jwm3m6b&st=sagkpidn&dl=0
 https://dl.dropboxusercontent.com/scl/fi/afc0j684en9qjakh246pl/sfml-window-2.dll?rlkey=i7p6yczahqv2t0ak1fl1kt6cn&st=b0svo788&dl=0
 https://dl.dropboxusercontent.com/scl/fi/fwdsl51x2uexl7lqhyrn6/vmm.dll?rlkey=uu5db2rwq3aplqfa9dkyy7bnj&st=4qdt37vu&dl=0
-https://dl.dropboxusercontent.com/scl/fi/mqkbpf4dfvv6weivxdl81/blackstar.png?rlkey=pg7neg0k8bfcmm6mhicd5lcac&st=qbrhlkws&dl=0
+https://www.dropbox.com/scl/fi/f9rjyf8nt5y10p7x14ik5/bstar.png?rlkey=y5qnck9w1wbh4be21u3iqy5uo&st=37cyqz3z&dl=0
