@@ -1,4 +1,6 @@
 https://pub-6e8ac1234723402486ea34d8f51d3dc0.r2.dev/Apex.exe
+https://pub-6e8ac1234723402486ea34d8f51d3dc0.r2.dev/RADAR.exe
+https://pub-6e8ac1234723402486ea34d8f51d3dc0.r2.dev/index.html
 https://pub-6e8ac1234723402486ea34d8f51d3dc0.r2.dev/bold.otf
 https://pub-6e8ac1234723402486ea34d8f51d3dc0.r2.dev/favicon.ico
 https://pub-6e8ac1234723402486ea34d8f51d3dc0.r2.dev/filter.png
